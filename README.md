@@ -1,8 +1,8 @@
-<span style="display: inline-flex; align-items: center; gap: 6px;">
+<span style="display: inline-flex; align-items: center; justify-content: center; gap: 6px;">
   👋 Chào bạn, tôi là Ho Chi Khanh
   <img 
     src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" 
-    width="24" height="24"
+    width="44" height="44"
     style="border-radius: 50%; object-fit: cover;" />
 </span>
 
