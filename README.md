@@ -1,7 +1,4 @@
-<p align="center">
-  👋 Chào bạn, tôi là <strong>Ho Chi Khanh</strong>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/flag-vietnam_1f1fb-1f1f3.png" width="22" height="22" style="vertical-align: middle; margin-left: 4px; border-radius: 4px;" />
-</p>
+👋 Chào bạn, tôi là Ho Chi Khanh  <img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="30" height="30" style="border-radius:50%;" />
 
 
 💼 **Software Engineer**
