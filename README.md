@@ -1,9 +1,9 @@
-<span style="display: inline-flex; align-items: center; justify-content: center; gap: 6px;">
+<span style="display: inline-flex; align-items: center; gap: 10px;">
   👋 Chào bạn, tôi là Ho Chi Khanh
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png" 
-    width="44" height="44"
-    style="border-radius: 50%; object-fit: cover;" />
+    width="24" height="24"
+    />
 </span>
 
 
