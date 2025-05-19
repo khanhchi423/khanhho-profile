@@ -1,11 +1,4 @@
-<span style="display: inline-flex; align-items: center; gap: 10px;">
-  👋 Chào bạn, tôi là Ho Chi Khanh
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png" 
-    width="24" height="24"
-    />
-</span>
-
+👋 Chào bạn, tôi là **Ho Chi Khanh** 🇻🇳
 
 
 💼 **Software Engineer**
