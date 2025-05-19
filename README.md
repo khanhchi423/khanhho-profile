@@ -46,10 +46,11 @@ Xin chào! Tôi là một **Software Engineer** với niềm đam mê phát tri�
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhchi423&show_icons=true&theme=radical" alt="Ho Chi Khanh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhchi423&layout=compact&theme=radical" alt="Ho Chi Khanh's Top Languages" width="48%" />
+<h2>📊 GitHub Stats</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanhchi423&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhchi423&theme=tokyonight" width="48%" />
 </div>
 
 ---
