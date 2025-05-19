@@ -1,13 +1,17 @@
-👋 Chào bạn, tôi là Ho Chi Khanh  
-<img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="20" height="20" style="vertical-align: middle; border-radius: 50%;" />
+👋 Chào bạn, tôi là Ho Chi Khanh <img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="20" height="20" style="vertical-align: middle; border-radius: 50%; margin-left: 4px;" />
 
-💼 Software Engineer
+💼 **Software Engineer**
 
-🚀 Về tôi
-Xin chào! Tôi là một Software Engineer với niềm đam mê phát triển các giải pháp phần mềm hiệu quả và sáng tạo. Tôi luôn tìm kiếm cơ hội để nâng cao kỹ năng và học hỏi công nghệ mới.
+---
 
-💻 Kỹ năng kỹ thuật
-Frontend
+## 🚀 Về tôi
+Xin chào! Tôi là một **Software Engineer** với niềm đam mê phát triển các giải pháp phần mềm hiệu quả và sáng tạo. Tôi luôn tìm kiếm cơ hội để nâng cao kỹ năng và học hỏi công nghệ mới.
+
+---
+
+## 💻 Kỹ năng kỹ thuật
+
+### 🔹 Frontend
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -17,18 +21,21 @@ Frontend
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-Backend
+
+### 🔹 Backend
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
-Database
+
+### 🔹 Database
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-DevOps & Tools
+
+### 🔹 DevOps & Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -37,34 +44,41 @@ DevOps & Tools
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanhchi423&show_icons=true&theme=radical" alt="Ho Chi Khanh's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhchi423&layout=compact&theme=radical" alt="Ho Chi Khanh's Top Languages" width="48%" />
 </div>
 
+---
+
 ## 💻 Hoạt động GitHub
 
-![GitHub Stats](./path-to-your-image.png)
+<img src="./path-to-your-image.png" alt="GitHub Activity" />
 
-- 🔹 19 repositories • 32 releases • 1.82 GB mã nguồn
-- ⭐ 147 Stars • 16 Forks • 23 Watchers
-- ⏳ Hoạt động liên tục trong 4 năm
-- 📈 Hơn 1.52 triệu dòng code được thêm vào
+- 🔹 **19 repositories** • **32 releases** • **1.82 GB mã nguồn**
+- ⭐ **147 Stars** • 🍴 **16 Forks** • 👀 **23 Watchers**
+- ⏳ **Hoạt động liên tục trong 4 năm**
+- 📈 **Hơn 1.52 triệu dòng code được thêm vào**
 
-Góp phần xây dựng các dự án mã nguồn mở, với cam kết sử dụng MIT License để chia sẻ kiến thức.
+Góp phần xây dựng các dự án mã nguồn mở, với cam kết sử dụng **MIT License** để chia sẻ kiến thức.
 
-📚 Học tập liên tục
+---
+
+## 📚 Học tập liên tục
 Tôi luôn đam mê học hỏi những công nghệ mới:
 
-Đang tìm hiểu về AI và Machine Learning
-Nghiên cứu về Blockchain và ứng dụng của nó
-Nâng cao kỹ năng về Microservices Architecture
+- 🤖 Đang tìm hiểu về **AI và Machine Learning**
+- 🔗 Nghiên cứu về **Blockchain và ứng dụng của nó**
+- 🧩 Nâng cao kỹ năng về **Microservices Architecture**
 
+---
 
-📫 Liên hệ với tôi
+## 📫 Liên hệ với tôi
 <p>
-  <a href="mailto:hochikhanh@gmail.com">
+  <a href="mailto:khanhho741@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hochikhanh@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/hochikhanh/">
@@ -75,4 +89,6 @@ Nâng cao kỹ năng về Microservices Architecture
   </a>
 </p>
 
-⭐️ From Ho Chi Khanh
+---
+
+⭐️ From **Ho Chi Khanh**
