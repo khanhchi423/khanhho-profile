@@ -1,8 +1,6 @@
-👋 Chào bạn, tôi là Ho Chi Khanh <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/vn.svg" width="30" height="30" style="border-radius:50%;" />
+👋 Chào bạn, tôi là Ho Chi Khanh <img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="30" height="30" style="border-radius:50%;" />
+
 💼 Software Engineer
-Afficher l'image
-Afficher l'image
-Afficher l'image
 
 🚀 Về tôi
 Xin chào! Tôi là một Software Engineer với niềm đam mê phát triển các giải pháp phần mềm hiệu quả và sáng tạo. Tôi luôn tìm kiếm cơ hội để nâng cao kỹ năng và học hỏi công nghệ mới.
