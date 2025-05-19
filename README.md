@@ -1,4 +1,5 @@
-👋 Chào bạn, tôi là Ho Chi Khanh  <img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="30" height="30" style="border-radius:50%;" />
+👋 Chào bạn, tôi là Ho Chi Khanh  
+<img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="20" height="20" style="vertical-align: middle; border-radius: 50%;" />
 
 💼 Software Engineer
 
@@ -38,18 +39,20 @@ DevOps & Tools
 
 📊 GitHub Stats
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=khanhchi423&show_icons=true&theme=radical" alt="Ho Chi Khanh's GitHub Stats" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhchi423&layout=compact&theme=radical" alt="Ho Chi Khanh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhchi423&show_icons=true&theme=radical" alt="Ho Chi Khanh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhchi423&layout=compact&theme=radical" alt="Ho Chi Khanh's Top Languages" width="48%" />
 </div>
 
-🌟 Dự án nổi bật
-🛒 E-commerce Platform
-Nền tảng thương mại điện tử với đầy đủ tính năng sử dụng React, Node.js và MongoDB.
-📱 Personal Finance Mobile App
-Ứng dụng quản lý tài chính cá nhân được phát triển bằng React Native và Firebase.
-🌐 Portfolio Website
-Website portfolio cá nhân được xây dựng với Next.js và TailwindCSS.
+## 💻 Hoạt động GitHub
+
+![GitHub Stats](./path-to-your-image.png)
+
+- 🔹 19 repositories • 32 releases • 1.82 GB mã nguồn
+- ⭐ 147 Stars • 16 Forks • 23 Watchers
+- ⏳ Hoạt động liên tục trong 4 năm
+- 📈 Hơn 1.52 triệu dòng code được thêm vào
+
+Góp phần xây dựng các dự án mã nguồn mở, với cam kết sử dụng MIT License để chia sẻ kiến thức.
 
 📚 Học tập liên tục
 Tôi luôn đam mê học hỏi những công nghệ mới:
