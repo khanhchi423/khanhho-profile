@@ -1,4 +1,4 @@
-👋 Chào bạn, tôi là Ho Chi Khanh     <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/vn.svg" width="30" height="30" style="border-radius:50%;" />
+👋 Chào bạn, tôi là Ho Chi Khanh <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="30" height="30" style="margin-left:5px;" />
 
 
 💼 **Software Engineer**
