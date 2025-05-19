@@ -1,6 +1,6 @@
 <div style="display:flex; align-items:center; justify-content:center;">
   <p>👋 Chào bạn, tôi là <strong>Ho Chi Khanh</strong></p>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/flag-vietnam_1f1fb-1f1f3.png" width="22" height="22" style="vertical-align: middle; margin-left: 4px; border-radius: 4px;" />
+  <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="52" height="52" style="vertical-align: middle; margin-left: 4px; border-radius: 4px;" />
 </p>
 
 
