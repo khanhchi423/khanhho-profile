@@ -1,4 +1,7 @@
-👋 Chào bạn, tôi là **Ho Chi Khanh** 🇻🇳
+<p align="center">
+  👋 Chào bạn, tôi là <strong>Ho Chi Khanh</strong>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/flag-vietnam_1f1fb-1f1f3.png" width="22" height="22" style="vertical-align: middle; margin-left: 4px; border-radius: 4px;" />
+</p>
 
 
 💼 **Software Engineer**
