@@ -1,4 +1,9 @@
-👋 Chào bạn, tôi là Ho Chi Khanh <img src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" width="20" height="20" style="vertical-align: middle; border-radius: 50%; margin-left: 4px;" />
+👋 Chào bạn, tôi là Ho Chi Khanh 
+<img 
+  src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" 
+  width="24" height="24" 
+  style="vertical-align: middle; border-radius: 50%; margin-left: 6px; object-fit: cover;" />
+
 
 💼 **Software Engineer**
 
