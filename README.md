@@ -1,7 +1,7 @@
 <span style="display: inline-flex; align-items: center; justify-content: center; gap: 6px;">
   👋 Chào bạn, tôi là Ho Chi Khanh
   <img 
-    src="https://static.vecteezy.com/system/resources/previews/010/310/892/non_2x/vietnam-flag-icon-sign-png.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png" 
     width="44" height="44"
     style="border-radius: 50%; object-fit: cover;" />
 </span>
