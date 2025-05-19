@@ -38,9 +38,9 @@ DevOps & Tools
 
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hochikhanh&show_icons=true&theme=radical" alt="Ho Chi Khanh's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hochikhanh&layout=compact&theme=radical" alt="Ho Chi Khanh's Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=khanhchi423&show_icons=true&theme=radical" alt="Ho Chi Khanh's GitHub Stats" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhchi423&layout=compact&theme=radical" alt="Ho Chi Khanh's Top Languages" />
 </div>
 
 🌟 Dự án nổi bật
